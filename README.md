@@ -90,7 +90,7 @@ This configuration means that the DHCP server will assign IP addresses in the ra
     <img width="649" height="147" alt="image" src="https://github.com/user-attachments/assets/648876f9-6cf3-44c9-b764-e90d25316ab5" />
 </p>
 
-2. Then, right-click and select Create.
+2. Then, right-click on the page and select Create.
 3. Select the newly created NAT Network and right-click then click in Properties.
 4. Change the network address to 10.10.10.0/24, enable DHCP, and optionally rename the NAT Network. In this case, you can keep the default name NAT Network.
 ...
@@ -100,9 +100,18 @@ This configuration means that the DHCP server will assign IP addresses in the ra
 
 5. Finally, click Apply to save the changes.
 <br>
+
 ---
 
+### Step 4: Creating the Ubuntu Server Virtual Machine
+1. From the Home screen in VirtualBox, click New to start creating a new virtual machine.
 
+2. Give the virtual machine a name. In my case, I will call it Wazuh.
 
+3. Choose where you want to store the virtual machine files. I recommend using a dedicated folder to keep everything organized. In my case, I use a folder called Virtual Machines inside Documents.
 
-
+4. Select the Ubuntu Server ISO file that you downloaded earlier.
+...
+<p>
+    <img width="796" height="559" alt="image" src="https://github.com/user-attachments/assets/cad9a3b6-8ed9-4b04-99c3-0357e9fece01" />
+</p>
