@@ -38,17 +38,17 @@ Before proceeding with the creation of the Linux virtual machine, it is recommen
 You must go to the following link and download the VirtualBox package:
 https://www.virtualbox.org/wiki/Downloads
 <img width="938" height="581" alt="image" src="https://github.com/user-attachments/assets/e1525ede-b62d-41f0-b85d-07f59d4ccfb5" />
-
+<br>
 2. On your PC
 1. Open VirtualBox.
 2. Go to File → Tools → Extension Pack Manager (in some versions: File → Preferences → Extensions).
 <img width="605" height="439" alt="image" src="https://github.com/user-attachments/assets/263ae5c2-eb5a-4084-b8a7-28770a6e0d1b" />
-
+<br>
 3. Clic Install
 <img width="475" height="346" alt="image" src="https://github.com/user-attachments/assets/6dd72cfd-9094-47d4-8dc9-16175ce78512" />
-
+<br>
 4. Select the previously downloaded package and load it.
 <img width="1060" height="653" alt="image" src="https://github.com/user-attachments/assets/0852ed3f-7495-4b7d-8273-32b21934dde2" />
-
+<br>
 5. Then, click on Install.
 
