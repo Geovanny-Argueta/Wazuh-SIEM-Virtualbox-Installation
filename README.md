@@ -92,7 +92,6 @@ This configuration means that the DHCP server will assign IP addresses in the ra
 -3: Select the newly created NAT Network and right-click then click in Properties.
 
 -4: Change the network address to 10.10.10.0/24, enable DHCP, and optionally rename the NAT Network. In this case, you can keep the default name NAT Network.
-
 <p>
     <img width="1788" height="872" alt="image" src="https://github.com/user-attachments/assets/44d76c37-2140-44cd-bc25-6a10971f71ac" />
 </p>
