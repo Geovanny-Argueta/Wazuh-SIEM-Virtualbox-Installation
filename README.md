@@ -63,6 +63,9 @@ https://www.virtualbox.org/wiki/Downloads
 
 Click on File → Tools → Network:
 You muct be clic
+#### 1. Install additional extensions:
+1. Installing VirtualBox packages
+You must go to the following link and download the VirtualBox package:
 <p>
 <img width="446" height="339" alt="image" src="https://github.com/user-attachments/assets/0c47e825-6322-4cf5-ae69-46f9d31eca60" />
 </p>
