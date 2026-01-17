@@ -81,7 +81,7 @@ This configuration means that the DHCP server will assign IP addresses in the ra
 <br>
 
 #### Creating a NAT Network
-- 1. At the top menu, click on the NAT Networks section.
+1. At the top menu, click on the NAT Networks section.
 ...
 <p>
     <img width="649" height="147" alt="image" src="https://github.com/user-attachments/assets/648876f9-6cf3-44c9-b764-e90d25316ab5" />
