@@ -63,7 +63,7 @@ https://www.virtualbox.org/wiki/Downloads
 </p>
 <br>
 
-### 2. VirtualBox Network Configuration.
+#### 2. VirtualBox Network Configuration.
 1. Click on File → Tools → Network
 <p>
 <img width="446" height="339" alt="image" src="https://github.com/user-attachments/assets/0c47e825-6322-4cf5-ae69-46f9d31eca60" />
@@ -83,7 +83,7 @@ This configuration means that the DHCP server will assign IP addresses in the ra
 6. Then, click Apply to save the changes.
 <br>
 
-#### Creating a NAT Network
+#### 3. Creating a NAT Network
 1. At the top menu, click on the NAT Networks section.
 ...
 <p>
@@ -99,23 +99,9 @@ This configuration means that the DHCP server will assign IP addresses in the ra
 </p>
 
 5. Finally, click Apply to save the changes.
-
+<br>
 ---
-##### 1.1 Download VirtualBox Extension Pack
 
-You must go to the following link and download the VirtualBox package.
-
-<p>
-  <img width="593" height="264" alt="image" src="https://github.com/user-attachments/assets/d85f9ce8-5e92-42fb-9fad-5f738d79a2d3" />
-</p>
-
-##### 1.2 Open Extension Manager
-
-Open VirtualBox and go to File → Tools → Extension Pack Manager.
-
-<p>
-  <img width="593" height="264" alt="image" src="https://github.com/user-attachments/assets/4667add0-6172-4832-aaa7-72d199f55200" />
-</p>
 
 
 
