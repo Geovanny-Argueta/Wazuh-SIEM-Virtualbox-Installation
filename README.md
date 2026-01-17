@@ -60,10 +60,9 @@ https://www.virtualbox.org/wiki/Downloads
 </p>
 
 #### 2. VirtualBox Network Configuration
-1. Click on File → Tools → Network:
-
+Click on File → Tools → Network:
 <p>
-    <img width="446" height="339" alt="image" src="https://github.com/user-attachments/assets/0c47e825-6322-4cf5-ae69-46f9d31eca60" />
+<img width="446" height="339" alt="image" src="https://github.com/user-attachments/assets/0c47e825-6322-4cf5-ae69-46f9d31eca60" />
 </p>
 
 2. Then, right-click and select Properties.
