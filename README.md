@@ -18,3 +18,10 @@ After downloading VirtualBox, completed the following steps:
     - Accept any security warnings from the operating system
 3. Complete the installation and click **Finish**.
 4. After installation, open **VirtualBox** to verify that it was installed successfully.
+
+### Step 2: Ubuntu Server Installation
+To deploy Wazuh, a Linux-based operating system is required.
+For this lab environment, Ubuntu Server is used due to its stability, low resource consumption, and official support.
+You can download Ubuntu Server LTS from the official website:
+https://ubuntu.com/download/server
+<img width="1040" height="671" alt="image" src="https://github.com/user-attachments/assets/a5a6f11f-3eab-42e4-bc4c-183429005ed0" />
