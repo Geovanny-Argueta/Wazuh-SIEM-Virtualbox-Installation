@@ -59,7 +59,7 @@ https://www.virtualbox.org/wiki/Downloads
 <img width="432" height="283" alt="image" src="https://github.com/user-attachments/assets/dcea53d7-1335-4084-b2d7-81412572161f" />
 </p>
 
-<br><br>
+<br>
 #### 2. VirtualBox Network Configuration.
 1. Click on File → Tools → Network
 <p>
