@@ -27,3 +27,28 @@ For this lab environment, Ubuntu Server is used due to its stability, low resour
 You can download Ubuntu Server LTS from the official website:
 https://ubuntu.com/download/server
 <img width="1040" height="671" alt="image" src="https://github.com/user-attachments/assets/a5a6f11f-3eab-42e4-bc4c-183429005ed0" />
+
+
+---
+
+### Step 3: Additional configuration in VirtualBox
+Before proceeding with the creation of the Linux virtual machine, it is recommended to apply the following changes in the VirtualBox software.
+#### 1. Install additional extensions:
+1. Installing VirtualBox packages
+You must go to the following link and download the VirtualBox package:
+https://www.virtualbox.org/wiki/Downloads
+<img width="938" height="581" alt="image" src="https://github.com/user-attachments/assets/e1525ede-b62d-41f0-b85d-07f59d4ccfb5" />
+
+2. On your PC
+1. Open VirtualBox.
+2. Go to File → Tools → Extension Pack Manager (in some versions: File → Preferences → Extensions).
+<img width="605" height="439" alt="image" src="https://github.com/user-attachments/assets/263ae5c2-eb5a-4084-b8a7-28770a6e0d1b" />
+
+3. Clic Install
+<img width="475" height="346" alt="image" src="https://github.com/user-attachments/assets/6dd72cfd-9094-47d4-8dc9-16175ce78512" />
+
+4. Select the previously downloaded package and load it.
+<img width="1060" height="653" alt="image" src="https://github.com/user-attachments/assets/0852ed3f-7495-4b7d-8273-32b21934dde2" />
+
+5. Then, click on Install.
+
