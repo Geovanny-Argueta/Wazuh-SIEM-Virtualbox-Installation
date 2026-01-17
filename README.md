@@ -59,3 +59,27 @@ https://www.virtualbox.org/wiki/Downloads
 <img width="432" height="283" alt="image" src="https://github.com/user-attachments/assets/dcea53d7-1335-4084-b2d7-81412572161f" />
 </p>
 
+
+#### 2. VirtualBox Network Configuration
+1. Click on File → Tools → Network:
+<p>
+    <img width="446" height="339" alt="image" src="https://github.com/user-attachments/assets/0c47e825-6322-4cf5-ae69-46f9d31eca60" />
+</p>
+
+2. Then, right-click and select Properties.
+3. In the Adapter tab, change the IP address and set it to 192.168.100.1. This change is made in order to maintain a more structured and consistent network scheme and to avoid configuration mistakes in the network setup.
+<p>
+    <img width="1796" height="272" alt="image" src="https://github.com/user-attachments/assets/f5cb0082-4e15-4e34-babd-ebb67fe7c110" />
+</p>
+
+5. Next, select the DHCP Server tab.
+6. In the Server Address field, set the IP address to 192.168.100.100 and leave the Server Mask unchanged. Then, set 192.168.100.101 as the Lower Address Bound and 192.168.100.254 as the Upper Address Bound.
+This configuration means that the DHCP server will assign IP addresses in the range from 192.168.100.101 to 192.168.100.254.
+<p>
+    <img width="1796" height="233" alt="image" src="https://github.com/user-attachments/assets/70aa7729-cda5-4d03-bd0d-322f8ef788e9" />
+</p>
+
+8. Then, click Apply to save the changes.
+
+
+
