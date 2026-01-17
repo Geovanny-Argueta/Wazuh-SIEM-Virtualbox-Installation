@@ -81,17 +81,17 @@ This configuration means that the DHCP server will assign IP addresses in the ra
 <br>
 
 #### Creating a NAT Network
-1. At the top menu, click on the NAT Networks section.
+-1: At the top menu, click on the NAT Networks section.
 <p>
     <img width="649" height="147" alt="image" src="https://github.com/user-attachments/assets/648876f9-6cf3-44c9-b764-e90d25316ab5" />
 </p>
-2. Then, right-click and select Create.
-3. Select the newly created NAT Network and right-click then click in Properties.
-4. Change the network address to 10.10.10.0/24, enable DHCP, and optionally rename the NAT Network. In this case, you can keep the default name NAT Network.
+-2: Then, right-click and select Create.
+-3: Select the newly created NAT Network and right-click then click in Properties.
+-4: Change the network address to 10.10.10.0/24, enable DHCP, and optionally rename the NAT Network. In this case, you can keep the default name NAT Network.
 <p>
     <img width="1788" height="872" alt="image" src="https://github.com/user-attachments/assets/44d76c37-2140-44cd-bc25-6a10971f71ac" />
 </p>
-5. Finally, click Apply to save the changes.
+-5: Finally, click Apply to save the changes.
 
 
 
