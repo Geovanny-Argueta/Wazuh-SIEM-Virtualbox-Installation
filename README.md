@@ -54,7 +54,6 @@ https://www.virtualbox.org/wiki/Downloads
 <p>
 <img width="1060" height="653" alt="image" src="https://github.com/user-attachments/assets/0852ed3f-7495-4b7d-8273-32b21934dde2" />
 </p>
-
 5. Then, click on Install.
 <p>
 <img width="432" height="283" alt="image" src="https://github.com/user-attachments/assets/dcea53d7-1335-4084-b2d7-81412572161f" />
