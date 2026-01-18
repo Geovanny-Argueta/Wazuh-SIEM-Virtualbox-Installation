@@ -48,6 +48,8 @@ https://ubuntu.com/download/server
 
 ![Ubuntu Server Download](https://github.com/user-attachments/assets/a5a6f11f-3eab-42e4-bc4c-183429005ed0)
 
+⬆️ [Back to Table of Contents](#-table-of-contents)
+
 <br>
 
 ---
@@ -122,6 +124,10 @@ This configuration means that the DHCP server will assign IP addresses in the ra
 
 5. Finally, click **Apply** to save the changes.
 
+⬆️ [Back to Table of Contents](#-table-of-contents)
+
+<br>
+
 ---
 
 ## Step 4: Creating the Ubuntu Server Virtual Machine
@@ -160,7 +166,9 @@ This configuration means that the DHCP server will assign IP addresses in the ra
 
 ![Adapter 2](https://github.com/user-attachments/assets/9f924ffe-8e59-4fe9-b9c4-80794c27b458)
 
+⬆️ [Back to Table of Contents](#-table-of-contents)
 
+<br>
 
 
 
