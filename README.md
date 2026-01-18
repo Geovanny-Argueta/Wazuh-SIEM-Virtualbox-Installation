@@ -58,7 +58,7 @@ https://ubuntu.com/download/server
 
 Before proceeding with the creation of the Linux virtual machine, it is recommended to apply the following changes in the VirtualBox software.
 
-### 3.1 Install additional extensions
+#### 3.1 Install additional extensions
 
 You must go to the following link and download the VirtualBox package:  
 https://www.virtualbox.org/wiki/Downloads
@@ -83,9 +83,9 @@ https://www.virtualbox.org/wiki/Downloads
 
 ![Confirm Install](https://github.com/user-attachments/assets/dcea53d7-1335-4084-b2d7-81412572161f)
 
----
+#
 
-### 3.2 VirtualBox Network Configuration
+#### 3.2 VirtualBox Network Configuration
 
 1. Click on **File → Tools → Network**.
 
@@ -108,9 +108,9 @@ This configuration means that the DHCP server will assign IP addresses in the ra
 
 7. Then, click **Apply** to save the changes.
 
----
+#
 
-### 3.3 Creating a NAT Network
+#### 3.3 Creating a NAT Network
 
 1. At the top menu, click on the **NAT Networks** section.
 
