@@ -2,6 +2,13 @@
 
 Step-by-step guide to deploy a Wazuh SIEM lab on VirtualBox using multiple virtual machines to simulate real-world enterprise cyberattacks and security incidents using Wazuh SIEM.
 
+## 📑 Table of Contents
+
+- [Step 1: Install the virtualization software](#step-1-install-the-virtualization-software)
+- [Step 2: Ubuntu Server Installation](#step-2-ubuntu-server-installation)
+- [Step 3: Additional configuration in VirtualBox](#step-3-additional-configuration-in-virtualbox)
+- [Step 4: Creating the Ubuntu Server Virtual Machine](#step-4-creating-the-ubuntu-server-virtual-machine)
+
 ---
 
 ### Step 1: Install the virtualization software
