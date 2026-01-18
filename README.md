@@ -4,7 +4,7 @@ Step-by-step guide to deploy a Wazuh SIEM lab on VirtualBox using multiple virtu
 
 ---
 
-## Step 1: Install the virtualization software
+### Step 1: Install the virtualization software
 
 The first step is to download the virtualization software that will be used to deploy **Wazuh** and the rest of the virtual machines.
 
@@ -33,24 +33,22 @@ After downloading VirtualBox, completed the following steps:
 ---
 
 
-## Step 2: Ubuntu Server Installation
+### Step 2: Ubuntu Server Installation
 
-To deploy Wazuh, a Linux-based operating system is required.
-
-For this lab environment, Ubuntu Server is used due to its stability, low resource consumption, and official support.
+To deploy Wazuh, a Linux-based operating system is required, for this lab environment, Ubuntu Server is used due to its stability, low resource consumption, and official support.
 
 You can download Ubuntu Server LTS from the official website:  
 https://ubuntu.com/download/server
 
 ![Ubuntu Server Download](https://github.com/user-attachments/assets/a5a6f11f-3eab-42e4-bc4c-183429005ed0)
 
+<br>
+
 ---
 
-## Step 3: Additional configuration in VirtualBox
+### Step 3: Additional configuration in VirtualBox
 
 Before proceeding with the creation of the Linux virtual machine, it is recommended to apply the following changes in the VirtualBox software.
-
----
 
 ### 3.1 Install additional extensions
 
