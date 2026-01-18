@@ -30,7 +30,7 @@ After downloading VirtualBox, completed the following steps:
 4. After installation, open **VirtualBox** to verify that it was installed successfully.
 
 
----
+<!-- -->
 
 
 ## Step 2: Ubuntu Server Installation
