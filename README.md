@@ -83,7 +83,7 @@ https://www.virtualbox.org/wiki/Downloads
 
 ![Confirm Install](https://github.com/user-attachments/assets/dcea53d7-1335-4084-b2d7-81412572161f)
 
-#
+###
 
 #### 3.2 VirtualBox Network Configuration
 
@@ -108,7 +108,7 @@ This configuration means that the DHCP server will assign IP addresses in the ra
 
 7. Then, click **Apply** to save the changes.
 
-#
+###
 
 #### 3.3 Creating a NAT Network
 
