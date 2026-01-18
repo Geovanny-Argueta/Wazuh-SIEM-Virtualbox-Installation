@@ -146,6 +146,7 @@ This configuration means that the DHCP server will assign IP addresses in the ra
 <img width="883" height="740" alt="image" src="https://github.com/user-attachments/assets/f8127f39-a969-4148-914e-41faeba0eea0" />
 </p>
 14. Once the virtual machine is powered off, right-click on the Wazuh VM and select Settings.
+
 15. Go to the Network section. In Adapter 1, select Host-only Adapter. In Adapter 2, select NAT Network and choose the NAT network you created earlier.
 ...
 <p>
