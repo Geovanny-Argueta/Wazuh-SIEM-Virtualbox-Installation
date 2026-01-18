@@ -33,6 +33,7 @@ After downloading VirtualBox, completed the following steps:
 4. After installation, open **VirtualBox** to verify that it was installed successfully.
 
 ⬆️ [Back to Table of Contents](#-table-of-contents)
+
 <br>
 
 ---
