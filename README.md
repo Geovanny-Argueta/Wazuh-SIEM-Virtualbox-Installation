@@ -6,16 +6,12 @@ Step-by-step guide to deploy a Wazuh SIEM lab on VirtualBox using multiple virtu
 
 ### Step 1: Install the virtualization software
 
-The first step is to download the virtualization software that will be used to deploy **Wazuh** and the rest of the virtual machines.
-
-In my case, I will use **VirtualBox**, as it is a comfortable and widely used option for lab environments.
+The first step is to download the virtualization software that will be used to deploy **Wazuh** and the rest of the virtual machines, in my case, I will use **VirtualBox**, as it is a comfortable and widely used option for lab environments.
 
 You can download VirtualBox from the official website:  
 https://www.virtualbox.org/wiki/Downloads
 
-Once on the VirtualBox website, select the **Download** option and choose the installer that matches your operating system.
-
-In my case, I am using **Windows hosts**, so I selected the corresponding option.
+Once on the VirtualBox website, select the **Download** option and choose the installer that matches your operating system, in my case, I am using **Windows hosts**, so I selected the corresponding option.
 
 ![VirtualBox Download](https://github.com/user-attachments/assets/28e3305f-e992-41e4-8307-ceb92f9a4683)
 
