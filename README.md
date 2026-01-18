@@ -137,7 +137,7 @@ This configuration means that the DHCP server will assign IP addresses in the ra
 10. Next, go to the Specify Virtual Hard Disk section.
 
 11. Choose how much disk space you want to allocate to the virtual machine. The recommended size is 60 GB, and the minimum is 40 GB.
-...<p><img width="801" height="549" alt="image" src="https://github.com/user-attachments/assets/928b7220-f420-43b6-a96b-868fa807004f" /></p>
+<p><img width="801" height="549" alt="image" src="https://github.com/user-attachments/assets/928b7220-f420-43b6-a96b-868fa807004f" /></p>
 
 12. Finally, click Finish to complete the setup.
 13. After clicking Finish, the virtual machine will start automatically. In this case, we need to shut it down, so click on Machine in the top menu and then select Turn Off the PC.
