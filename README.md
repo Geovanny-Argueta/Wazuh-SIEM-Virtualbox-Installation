@@ -115,3 +115,34 @@ This configuration means that the DHCP server will assign IP addresses in the ra
 <p>
     <img width="796" height="559" alt="image" src="https://github.com/user-attachments/assets/cad9a3b6-8ed9-4b04-99c3-0357e9fece01" />
 </p>
+
+5. Next, move on to the Set up Unattended Guest OS Installation section
+
+6. Enter a username and password. You can choose whatever you like, but make sure to write them down and keep them safe, because you will use these credentials to log in to your Linux server later.
+
+7. Then, simply select the Install Guest Additions option.
+...
+<p>
+    <img width="799" height="556" alt="image" src="https://github.com/user-attachments/assets/d696a663-6660-4e48-94a1-84f6a9f2580e" />
+</p>
+
+8. Next, go to the Specify Virtual Hardware section
+
+9. For this lab, the recommended configuration is 4 CPUs, 8 GB of RAM, and 60 GB of disk space. As a minimum, you should use 2 CPUs, 4 GB of RAM, and 40 GB of disk space.
+...
+<p>
+    <img width="788" height="551" alt="image" src="https://github.com/user-attachments/assets/2a9e26b2-3da7-4f2c-9a79-884969056e9f" />
+</p>
+
+10. Next, go to the Specify Virtual Hard Disk section.
+
+11. Choose how much disk space you want to allocate to the virtual machine. The recommended size is 60 GB, and the minimum is 40 GB.
+...
+<p>
+    <img width="801" height="549" alt="image" src="https://github.com/user-attachments/assets/928b7220-f420-43b6-a96b-868fa807004f" />
+</p>
+
+12. Finally, click Finish to complete the setup.
+
+
+
