@@ -140,6 +140,35 @@ This configuration means that the DHCP server will assign IP addresses in the ra
 ...<p><img width="801" height="549" alt="image" src="https://github.com/user-attachments/assets/928b7220-f420-43b6-a96b-868fa807004f" /></p>
 
 12. Finally, click Finish to complete the setup.
+13. After clicking Finish, the virtual machine will start automatically. In this case, we need to shut it down, so click on Machine in the top menu and then select Turn Off the PC.
+
+...
+<p>
+    <img width="883" height="740" alt="image" src="https://github.com/user-attachments/assets/f8127f39-a969-4148-914e-41faeba0eea0" />
+</p>
+...
+14. Once the virtual machine is powered off, right-click on the Wazuh VM and select Settings.
+15. Go to the Network section. In Adapter 1, select Host-only Adapter. In Adapter 2, select NAT Network and choose the NAT network you created earlier.
+...
+<p>
+    <img width="783" height="514" alt="image" src="https://github.com/user-attachments/assets/ec07b54e-f614-4d90-8157-f5e38f563583" />
+</p>
+...
+<p>
+    <img width="782" height="519" alt="image" src="https://github.com/user-attachments/assets/9f924ffe-8e59-4fe9-b9c4-80794c27b458" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
