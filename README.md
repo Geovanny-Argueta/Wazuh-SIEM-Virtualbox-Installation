@@ -140,7 +140,7 @@ This configuration means that the DHCP server will assign IP addresses in the ra
 ![VM Creation](https://github.com/user-attachments/assets/cad9a3b6-8ed9-4b04-99c3-0357e9fece01)
 
 5. Next, move on to the **Set up Unattended Guest OS Installation** section.
-6. Enter a username and password.
+6.  In this case, you can fill in the requested information using the username and password. It will not be important for now, since the Ubuntu system installation and configuration will be performed manually, So, the credentials entered here will not be important in the future.
 7. Then, simply select the **Install Guest Additions** option.
 
 ![Unattended Setup](https://github.com/user-attachments/assets/d696a663-6660-4e48-94a1-84f6a9f2580e)
