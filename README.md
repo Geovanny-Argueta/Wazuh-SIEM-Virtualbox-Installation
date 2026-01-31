@@ -39,7 +39,7 @@ After downloading VirtualBox, completed the following steps:
 ---
 
 
-### Step 2: Ubuntu Server Installation
+### Step 2: Download Ubuntu Server
 
 To deploy Wazuh, a Linux-based operating system is required, for this lab environment, Ubuntu Server is used due to its stability, low resource consumption, and official support.
 
@@ -170,9 +170,12 @@ This configuration means that the DHCP server will assign IP addresses in the ra
 
 <br>
 
+---
 
+## Step 5: Ubuntu Linux Operating System Configuration
 
-
+Next, power on the Wazuh virtual machine. In some cases, after shutting it down post-configuration, you may encounter an ISO boot error. This can be quickly resolved by reattaching the previously downloaded Linux ISO. Once the VM starts, click inside the screen and use the arrow keys to select “Try or Install Ubuntu Server.”
+![Try Install Ubuntu Server](![image.png](attachment:77d6ac48-a624-4fe9-8d06-9a3df15dd249:image.png))
 
 
 
