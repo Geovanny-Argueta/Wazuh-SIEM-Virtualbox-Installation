@@ -207,16 +207,12 @@ Once the process is complete, a message will appear at the top indicating that t
 During the reboot, an error message may appear. Simply press Enter to continue. The VM will restart, and the login screen will be displayed. Press Enter again and sign in using the credentials you created earlier.
 <img width="1285" height="293" alt="image" src="https://github.com/user-attachments/assets/9a17a3a7-e70e-4154-8175-be17e919af7a" />
 
-#### Important Note: When entering your credentials, if you use numbers, make sure to type them using the number keys located on the top row of the keyboard (number and symbol keys). This helps prevent potential login issues.
+Important Note: When entering your credentials, if you use numbers, make sure to type them using the number keys located on the top row of the keyboard (number and symbol keys). This helps prevent potential login issues.
 <img width="1154" height="306" alt="image" src="https://github.com/user-attachments/assets/ed2a8962-27ef-45ef-80e4-9be7296c93d5" />
-
-
 
 ⬆️ [Back to Table of Contents](#-table-of-contents)
 
-
 <br>
-
 
 ---
 
