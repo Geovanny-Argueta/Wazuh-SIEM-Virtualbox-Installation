@@ -201,6 +201,6 @@ Once the process is complete, a message will appear at the top indicating that t
 ![Reboot](<img width="493" height="335" alt="image" src="https://github.com/user-attachments/assets/e45da557-aa73-4186-b19f-40d63be718b4" />)
 
 During the reboot, an error message may appear. Simply press Enter to continue. The VM will restart, and the login screen will be displayed. Press Enter again and sign in using the credentials you created earlier.
-![Lab](<img width="499" height="158" alt="image" src="https://github.com/user-attachments/assets/d2230e8d-7ea3-49d9-83c2-bc405eb9dd69" />)
+![Lab](<img width="499" height="158" alt="image" src="https://github.com/user-attachments/assets/c8eec51e-6b65-4efc-8bb9-910d73eaf83a" />)
 
 ⬆️ [Back to Table of Contents](#-table-of-contents)
