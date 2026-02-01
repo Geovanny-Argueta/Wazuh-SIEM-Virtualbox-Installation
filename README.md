@@ -9,6 +9,7 @@ Step-by-step guide to deploy a Wazuh SIEM lab on VirtualBox using multiple virtu
 - [Step 3: Additional configuration in VirtualBox](#step-3-additional-configuration-in-virtualbox)
 - [Step 4: Creating the Ubuntu Server Virtual Machine](#step-4-creating-the-ubuntu-server-virtual-machine)
 - [Step 5: Ubuntu Linux Operating System Configuration](#step-5-ubuntu-linux-operating-system-configuration)
+- [Step 6: Wazuh SIEM Installation on Ubuntu Linux](step-6-wazuh-SIEM-installation-on-ubuntu-linux)
 
 ---
 
