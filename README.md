@@ -217,3 +217,28 @@ Important Note: When entering your credentials, if you use numbers, make sure to
 ---
 
 ## Step 6: Wazuh SIEM Installation on Ubuntu Linux
+What is Wazuh and what is it used for?
+
+**Wazuh** is an open-source **SIEM and XDR platform** used to monitor endpoints and infrastructure for security threats, compliance, and operational issues.
+
+It collects and analyzes logs, detects suspicious activity, monitors file integrity (FIM), checks system configuration, and helps security teams respond to incidents.
+
+Wazuh can be deployed using different architectures depending on the environment size and performance requirements:
+
+### **All-in-One Deployment**
+- All Wazuh components (**Wazuh server, indexer, and dashboard**) are installed on a **single server**.
+- Best suited for **labs, testing environments, and small infrastructures**.
+- Easy to deploy and manage, with minimal resource requirements.
+
+### **Single-Node Deployment**
+- Each main component (**server, indexer, dashboard**) runs on a **separate server**.
+- Recommended for **medium-sized environments** that need better performance and separation of services.
+
+### **Multi-Node Deployment**
+- Uses **clusters** for the Wazuh server and indexer, with one or more dashboard instances.
+- Designed for **large environments** with high event volume.
+- Provides **high availability, load balancing, and fault tolerance**.
+
+## Architecture Used in This Lab
+In this lab, we are using the **All-in-One deployment architecture**.
+The **Wazuh server**, **Wazuh indexer**, and **Wazuh dashboard** are installed on the **same Ubuntu Linux server, t**his approach is ideal for learning, testing, and demonstrating Wazuh features without the complexity of a distributed environment.
