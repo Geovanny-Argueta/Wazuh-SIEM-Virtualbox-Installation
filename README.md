@@ -201,6 +201,7 @@ Once completed, select Done. Then, skip the Ubuntu Pro option and press Continue
 Next, In the SSH configuration step, make sure to enable SSH, as it is required to remotely access and manage the server from your local machine during the lab. In this case, enable SSH and select Done. Then, in the Featured Server Snaps section, do not select any options and press Done. The installation will begin and may take several minutes to complete.
 <img width="1266" height="849" alt="image" src="https://github.com/user-attachments/assets/4cecf977-de5d-4d93-a534-bd3a8b5c63a4" />
 
+
 Once the process is complete, a message will appear at the top indicating that the installation has finished. Select Reboot Now and press Enter to restart the system.
 <img width="1213" height="812" alt="image" src="https://github.com/user-attachments/assets/8c3076b8-e0b3-4273-815a-5ce8b91870bb" />
 
