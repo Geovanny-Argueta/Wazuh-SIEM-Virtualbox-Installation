@@ -191,6 +191,10 @@ Next, in the Guided Storage Configuration section, keep the default settings and
 <img width="1214" height="542" alt="image" src="https://github.com/user-attachments/assets/a5f40449-df07-4f79-9314-98a68622801b" />
 
 Next, in the Profile Configuration section, enter the server name, your desired username, and password. These values are your choice, but make sure to note them down, as you will use these credentials to access your virtual machine.
+#### Important Note:
+#### When entering the password and if you are typing numbers, it is recommended to use the number keys located on the top row of the keyboard (the number and symbol keys), rather than the numeric keypad.
+<img width="1154" height="306" alt="image" src="https://github.com/user-attachments/assets/0bf2bc57-4063-47e2-938f-1727645b9637" />
+
 <img width="1164" height="850" alt="image" src="https://github.com/user-attachments/assets/bad16c0f-c5a8-458e-a931-b2ffc9eb33fa" />
 Once completed, select Done. Then, skip the Ubuntu Pro option and press Continue to proceed.
 
@@ -202,6 +206,10 @@ Once the process is complete, a message will appear at the top indicating that t
 
 During the reboot, an error message may appear. Simply press Enter to continue. The VM will restart, and the login screen will be displayed. Press Enter again and sign in using the credentials you created earlier.
 <img width="1285" height="293" alt="image" src="https://github.com/user-attachments/assets/9a17a3a7-e70e-4154-8175-be17e919af7a" />
+
+#### Important Note:
+#### When entering your credentials, if you use numbers, make sure to type them using the number keys located on the top row of the keyboard (number and symbol keys). This helps prevent potential login issues.
+<img width="1154" height="306" alt="image" src="https://github.com/user-attachments/assets/ed2a8962-27ef-45ef-80e4-9be7296c93d5" />
 
 
 ⬆️ [Back to Table of Contents](#-table-of-contents)
