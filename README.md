@@ -178,32 +178,30 @@ This configuration means that the DHCP server will assign IP addresses in the ra
 Next, power on the Wazuh virtual machine. In some cases, after shutting it down post-configuration, you may encounter an ISO boot error. This can be quickly resolved by reattaching the previously downloaded Linux ISO. Once the VM starts, click inside the screen and use the arrow keys to select “Try or Install Ubuntu Server.”
 <img width="749" height="529" alt="image" src="https://github.com/user-attachments/assets/b02e6acc-e49a-4cf5-a986-78513b779875" />
 
-
-
 Proceed with the Ubuntu Server installation, which may take several minutes. When prompted, select your preferred language and press Enter. Next, choose the keyboard layout (English is recommended) and select Done. Finally, keep the default installation type and press Done to continue.
-
+<img width="1273" height="851" alt="image" src="https://github.com/user-attachments/assets/033f117c-f0a4-41d2-8393-04a89d314519" />
 
 Next, in the network configuration step, leave the settings as default. As shown, the internal network is assigned IP 192.168.100.102 and the NAT network receives 10.10.10.4, confirming the network is correctly configured. Then, press Done to continue.
-
-
+<img width="1269" height="851" alt="image" src="https://github.com/user-attachments/assets/6162cd29-aaa2-4410-ba23-d1284800f55a" />
 
 In the Proxy section, leave the field empty and select Done. Ubuntu will then verify the package repository and confirm internet connectivity, which may take a few minutes. Once you see the message “This mirror location has passed the test,” press Done to continue.
+<img width="1277" height="845" alt="image" src="https://github.com/user-attachments/assets/0076763d-d8b4-4243-8271-ba24f1572c6d" />
 
 Next, in the Guided Storage Configuration section, keep the default settings and select Done. On the following screen, select Done again. When prompted to confirm the changes, choose Continue to proceed with the installation.
-
+<img width="1214" height="542" alt="image" src="https://github.com/user-attachments/assets/a5f40449-df07-4f79-9314-98a68622801b" />
 
 Next, in the Profile Configuration section, enter the server name, your desired username, and password. These values are your choice, but make sure to note them down, as you will use these credentials to access your virtual machine.
-
+<img width="1164" height="850" alt="image" src="https://github.com/user-attachments/assets/bad16c0f-c5a8-458e-a931-b2ffc9eb33fa" />
 Once completed, select Done. Then, skip the Ubuntu Pro option and press Continue to proceed.
 
 Next, in the SSH configuration step, you may enable it if desired. In this case, enable SSH and select Done. Then, in the Featured Server Snaps section, do not select any options and press Done. The installation will begin and may take several minutes to complete.
-
+<img width="1266" height="849" alt="image" src="https://github.com/user-attachments/assets/4cecf977-de5d-4d93-a534-bd3a8b5c63a4" />
 
 Once the process is complete, a message will appear at the top indicating that the installation has finished. Select Reboot Now and press Enter to restart the system.
-
+<img width="1213" height="812" alt="image" src="https://github.com/user-attachments/assets/8c3076b8-e0b3-4273-815a-5ce8b91870bb" />
 
 During the reboot, an error message may appear. Simply press Enter to continue. The VM will restart, and the login screen will be displayed. Press Enter again and sign in using the credentials you created earlier.
-
+<img width="1285" height="293" alt="image" src="https://github.com/user-attachments/assets/9a17a3a7-e70e-4154-8175-be17e919af7a" />
 
 
 ⬆️ [Back to Table of Contents](#-table-of-contents)
