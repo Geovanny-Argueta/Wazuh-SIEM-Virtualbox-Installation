@@ -198,7 +198,7 @@ Next, in the Profile Configuration section, enter the server name, your desired 
 <img width="1164" height="850" alt="image" src="https://github.com/user-attachments/assets/bad16c0f-c5a8-458e-a931-b2ffc9eb33fa" />
 Once completed, select Done. Then, skip the Ubuntu Pro option and press Continue to proceed.
 
-Next, in the SSH configuration step, you may enable it if desired. In this case, enable SSH and select Done. Then, in the Featured Server Snaps section, do not select any options and press Done. The installation will begin and may take several minutes to complete.
+Next, In the SSH configuration step, make sure to enable SSH, as it is required to remotely access and manage the server from your local machine during the lab. In this case, enable SSH and select Done. Then, in the Featured Server Snaps section, do not select any options and press Done. The installation will begin and may take several minutes to complete.
 <img width="1266" height="849" alt="image" src="https://github.com/user-attachments/assets/4cecf977-de5d-4d93-a534-bd3a8b5c63a4" />
 
 Once the process is complete, a message will appear at the top indicating that the installation has finished. Select Reboot Now and press Enter to restart the system.
@@ -239,5 +239,7 @@ Wazuh can be deployed using different architectures depending on the environment
 - Designed for **large environments** with high event volume.
 - Provides **high availability, load balancing, and fault tolerance**.
 
-## Architecture Used in This Lab: In this lab, we are using the **All-in-One deployment architecture**.
+### Architecture Used in This Lab: In this lab, we are using the **All-in-One deployment architecture**.
 The **Wazuh server**, **Wazuh indexer**, and **Wazuh dashboard** are installed on the **same Ubuntu Linux server, t**his approach is ideal for learning, testing, and demonstrating Wazuh features without the complexity of a distributed environment.
+
+
