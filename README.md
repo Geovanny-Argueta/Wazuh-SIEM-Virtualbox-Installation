@@ -226,21 +226,21 @@ It collects and analyzes logs, detects suspicious activity, monitors file integr
 
 Wazuh can be deployed using different architectures depending on the environment size and performance requirements:
 
-### **All-in-One Deployment**
+#### **All-in-One Deployment**
 - All Wazuh components (**Wazuh server, indexer, and dashboard**) are installed on a **single server**.
 - Best suited for **labs, testing environments, and small infrastructures**.
 - Easy to deploy and manage, with minimal resource requirements.
 
-### **Single-Node Deployment**
+#### **Single-Node Deployment**
 - Each main component (**server, indexer, dashboard**) runs on a **separate server**.
 - Recommended for **medium-sized environments** that need better performance and separation of services.
 
-### **Multi-Node Deployment**
+#### **Multi-Node Deployment**
 - Uses **clusters** for the Wazuh server and indexer, with one or more dashboard instances.
 - Designed for **large environments** with high event volume.
 - Provides **high availability, load balancing, and fault tolerance**.
 
-### Architecture Used in This Lab: In this lab, we are using the **All-in-One deployment architecture**.
+#### Architecture Used in This Lab: In this lab, we are using the **All-in-One deployment architecture**.
 The **Wazuh server**, **Wazuh indexer**, and **Wazuh dashboard** are installed on the **same Ubuntu Linux server, t**his approach is ideal for learning, testing, and demonstrating Wazuh features without the complexity of a distributed environment.
 
 Let’s proceed with the Wazuh installation on the virtual machine. First, power on the VM. Once it starts, log in using your credentials. Then, update the system by running the following command:
