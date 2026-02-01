@@ -239,6 +239,5 @@ Wazuh can be deployed using different architectures depending on the environment
 - Designed for **large environments** with high event volume.
 - Provides **high availability, load balancing, and fault tolerance**.
 
-## Architecture Used in This Lab
-In this lab, we are using the **All-in-One deployment architecture**.
+## Architecture Used in This Lab: In this lab, we are using the **All-in-One deployment architecture**.
 The **Wazuh server**, **Wazuh indexer**, and **Wazuh dashboard** are installed on the **same Ubuntu Linux server, t**his approach is ideal for learning, testing, and demonstrating Wazuh features without the complexity of a distributed environment.
