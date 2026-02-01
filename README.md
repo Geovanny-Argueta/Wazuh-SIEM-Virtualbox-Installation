@@ -176,7 +176,8 @@ This configuration means that the DHCP server will assign IP addresses in the ra
 ## Step 5: Ubuntu Linux Operating System Configuration
 
 Next, power on the Wazuh virtual machine. In some cases, after shutting it down post-configuration, you may encounter an ISO boot error. This can be quickly resolved by reattaching the previously downloaded Linux ISO. Once the VM starts, click inside the screen and use the arrow keys to select “Try or Install Ubuntu Server.”
-<img width="377" height="261" alt="image" src="https://github.com/user-attachments/assets/546a46c8-4d32-4f1b-aa48-320d03ecc82f" />
+<img width="749" height="529" alt="image" src="https://github.com/user-attachments/assets/b02e6acc-e49a-4cf5-a986-78513b779875" />
+
 
 
 Proceed with the Ubuntu Server installation, which may take several minutes. When prompted, select your preferred language and press Enter. Next, choose the keyboard layout (English is recommended) and select Done. Finally, keep the default installation type and press Done to continue.
