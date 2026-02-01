@@ -209,5 +209,10 @@ During the reboot, an error message may appear. Simply press Enter to continue. 
 #### Important Note: When entering your credentials, if you use numbers, make sure to type them using the number keys located on the top row of the keyboard (number and symbol keys). This helps prevent potential login issues.
 <img width="1154" height="306" alt="image" src="https://github.com/user-attachments/assets/ed2a8962-27ef-45ef-80e4-9be7296c93d5" />
 
-
 ⬆️ [Back to Table of Contents](#-table-of-contents)
+
+<br>
+
+---
+
+## Step 6: Wazuh SIEM Installation on Ubuntu Linux
