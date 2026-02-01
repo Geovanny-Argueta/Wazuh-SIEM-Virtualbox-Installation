@@ -243,4 +243,6 @@ Wazuh can be deployed using different architectures depending on the environment
 ### Architecture Used in This Lab: In this lab, we are using the **All-in-One deployment architecture**.
 The **Wazuh server**, **Wazuh indexer**, and **Wazuh dashboard** are installed on the **same Ubuntu Linux server, t**his approach is ideal for learning, testing, and demonstrating Wazuh features without the complexity of a distributed environment.
 
-
+Let’s proceed with the Wazuh installation on the virtual machine. First, power on the VM. Once it starts, log in using your credentials. Then, update the system by running the following command:
+- **sudo apt update**
+You will be prompted to enter your password (the same one used to log in). After that, the system will begin updating the package lists.
