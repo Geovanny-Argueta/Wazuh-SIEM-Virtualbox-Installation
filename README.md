@@ -182,7 +182,8 @@ Proceed with the Ubuntu Server installation, which may take several minutes. Whe
 ![Default Installation](<img width="478" height="331" alt="image" src="https://github.com/user-attachments/assets/5fde2fdf-c709-4b60-a6ba-40911c112eb7" />)
 
 Next, in the network configuration step, leave the settings as default. As shown, the internal network is assigned IP 192.168.100.102 and the NAT network receives 10.10.10.4, confirming the network is correctly configured. Then, press Done to continue.
-![Network Configuration](<img width="478" height="335" alt="image" src="https://github.com/user-attachments/assets/c9192e61-7baa-4793-b9da-9eb8666d0535" />)
+![Network Configuration]<img width="377" height="261" alt="image" src="https://github.com/user-attachments/assets/1a13f5a0-2f74-4e9a-8313-38a7e49f7836" />
+
 
 In the Proxy section, leave the field empty and select Done. Ubuntu will then verify the package repository and confirm internet connectivity, which may take a few minutes. Once you see the message “This mirror location has passed the test,” press Done to continue.
 ![Test](<img width="479" height="329" alt="image" src="https://github.com/user-attachments/assets/35a441a7-95db-48f5-9fc4-2377bc90bd45" />)
@@ -203,5 +204,6 @@ Once the process is complete, a message will appear at the top indicating that t
 During the reboot, an error message may appear. Simply press Enter to continue. The VM will restart, and the login screen will be displayed. Press Enter again and sign in using the credentials you created earlier.
 [Lab](<img width="673" height="376" alt="image" src="https://github.com/user-attachments/assets/6425c800-ea99-489b-a11b-7be7432742da" />
 )
+
 
 ⬆️ [Back to Table of Contents](#-table-of-contents)
